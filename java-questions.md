@@ -22,5 +22,5 @@ Array, structure, union, link list, stacks, queue etc.
 Read more on Brainly.in - https://brainly.in/question/6575668#readmore
 
 
-** What is Static Typing/Static Checking?**  
+**What is Static Typing/Static Checking?**  
 Static typing or checking is checking if correct type of data is being stored in a variable type. Forexample you can't store double in int. The compiler will not compile and flag it as error.
