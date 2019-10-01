@@ -9,14 +9,18 @@
 - Schotty diode provides faster switching times
 - Schotty diode has far lower forward voltage drop
 
+![difference between schotte and zener diode](img/diode.png)
+
 ### What is zener diode?  
 - Normally a diode breaks down with high reverse voltage
 - Zener diode works perfectly in the breakdown region  
+![characteristic of zener diode](img/zener_char.png)
 
 ### What is BJT transistor?  
 - It stands for bipolar junction transistor
 - There an NPN and PNP transistor
 - Used as amplifier and swtich  
+![BJT symbols](img/bjt.png)
 
 ### Are their any unipolar junction transistors?  
 - Yes they were called field-effect transistors
@@ -35,20 +39,12 @@
 - MOSFET stands for Metal Oxiode SemiConductor Field Effect Transistor
 - BJT has base emiiter and collector MOSET has gate source and drain
 - BJT is preffered for low current applications and MOSFET is preferred for high power connections
-- The operation of MOSFET depends on the voltage at gate where as operation of transistor depend on the current in the base
-
-### How do you design not gate using and gate?  
-
-
-
-
-
+- The operation of MOSFET depends on the voltage at gate where as operation of transistor depend on the current in the base  
 ### What is the truth table of XOR?
-
-
+![truth table for xor](img/xor.gif)
 
 ### What is the truth table for XNOR?
-
+![truth table for xnor](img/xnor.gif)
 
 ### What the units used for:
 - Resistor: Ohm
@@ -72,8 +68,9 @@ Nets are usually named for the purpose it is being used.
 # PCB  
 
 ### What is a perf board?  
-
+![perf board](img/perf-board.jpg)  
 ### What is the composition of PCB?  
+![composition of FR4 PCB](img/pcb-comp.png)
 
 ### What is FR4?  
 - FR4 is a high temperature plastic like material which is non conductive. 
